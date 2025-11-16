@@ -1,0 +1,1881 @@
+{
+  "audio_path": "/Users/adamanz/cercle-transition-dataset/audio/QRQwZDWz1Pw.mp3",
+  "sample_rate": 44100,
+  "duration_seconds": 6362.128253968254,
+  "transitions_detected": 207,
+  "transitions_seconds": [
+    10.077460317460318,
+    40.08925170068027,
+    70.08943310657597,
+    100.22893424036282,
+    131.45977324263038,
+    161.58766439909297,
+    191.84326530612245,
+    222.3310657596372,
+    252.3312471655329,
+    282.45913832199545,
+    312.6334693877551,
+    342.6452607709751,
+    372.64544217687074,
+    403.1216326530612,
+    433.35401360544216,
+    463.4006349206349,
+    493.5981859410431,
+    523.830566893424,
+    554.5273469387755,
+    584.5391383219954,
+    614.5393197278912,
+    644.5395011337869,
+    674.5396825396825,
+    704.5398639455782,
+    734.5516553287982,
+    765.0394557823129,
+    795.2718367346939,
+    825.5042176870749,
+    855.701768707483,
+    885.8180498866213,
+    916.038820861678,
+    946.0622222222222,
+    976.2946031746031,
+    1006.2947845804989,
+    1039.1974603174604,
+    1069.3834013605442,
+    1099.38358276644,
+    1130.5679818594103,
+    1160.7539229024944,
+    1190.8121541950113,
+    1221.0561451247165,
+    1252.6817233560091,
+    1288.4172335600906,
+    1318.440634920635,
+    1348.6730158730159,
+    1378.8473469387754,
+    1408.8475283446712,
+    1439.0102494331065,
+    1469.1613605442176,
+    1499.3356916099774,
+    1529.510022675737,
+    1559.6843537414966,
+    1589.847074829932,
+    1619.858866213152,
+    1649.8590476190477,
+    1680.14947845805,
+    1710.3586394557824,
+    1741.682358276644,
+    1771.8102494331065,
+    1801.8104308390023,
+    1832.031201814059,
+    1862.2519727891156,
+    1892.2637641723356,
+    1922.2755555555555,
+    1952.3221768707483,
+    1982.5081179138322,
+    2012.508299319728,
+    2042.5084807256235,
+    2072.5086621315195,
+    2102.508843537415,
+    2132.520634920635,
+    2162.5208163265306,
+    2192.764807256236,
+    2222.9855782312925,
+    2252.985759637188,
+    2282.985941043084,
+    2312.9861224489796,
+    2343.230113378685,
+    2373.462494331066,
+    2403.4626757369615,
+    2433.5673469387757,
+    2465.367074829932,
+    2496.876553287982,
+    2529.140680272109,
+    2559.419501133787,
+    2589.6402721088434,
+    2619.6404535147394,
+    2649.640634920635,
+    2680.59283446712,
+    2711.0690249433105,
+    2741.0808163265306,
+    2771.278367346939,
+    2801.5339682539684,
+    2831.743129251701,
+    2868.9879365079364,
+    2899.1042176870747,
+    2935.5014965986393,
+    2965.8267573696144,
+    2995.8269387755104,
+    3025.827120181406,
+    3055.8273015873015,
+    3087.9753287981857,
+    3118.207709750567,
+    3148.2078911564627,
+    3178.417052154195,
+    3209.438911564626,
+    3239.636462585034,
+    3269.868843537415,
+    3299.8690249433107,
+    3330.1478458049887,
+    3360.2409070294784,
+    3390.2643083900225,
+    3420.2644897959185,
+    3450.427210884354,
+    3480.589931972789,
+    3510.729433106576,
+    3540.8921541950112,
+    3570.8923356009072,
+    3601.0550566893426,
+    3631.055238095238,
+    3661.2063492063494,
+    3691.3690702947847,
+    3721.5201814058955,
+    3751.8454421768706,
+    3781.996553287982,
+    3812.1708843537417,
+    3842.472925170068,
+    3872.6008163265305,
+    3902.717097505669,
+    3932.717278911565,
+    3962.7290702947844,
+    3992.9498412698413,
+    4022.9616326530613,
+    4052.961814058957,
+    4084.5061224489796,
+    4114.634013605442,
+    4147.234829931973,
+    4177.235011337869,
+    4207.420952380952,
+    4237.444353741496,
+    4270.648888888889,
+    4300.695510204082,
+    4330.695691609977,
+    4360.9280725623585,
+    4394.341587301587,
+    4424.736507936508,
+    4454.980498866214,
+    4484.980680272109,
+    4515.038911564626,
+    4545.4454421768705,
+    4575.4456235827665,
+    4605.724444444444,
+    4636.374784580499,
+    4666.816145124717,
+    4698.302403628118,
+    4729.510022675737,
+    4759.684353741497,
+    4789.847074829932,
+    4820.04462585034,
+    4850.230566893424,
+    4880.242358276644,
+    4910.428299319728,
+    4940.428480725624,
+    4970.602811791383,
+    5000.602993197279,
+    5030.788934240363,
+    5060.800725623582,
+    5090.986666666667,
+    5121.021678004535,
+    5151.137959183673,
+    5181.498049886622,
+    5211.858140589569,
+    5242.055691609978,
+    5272.276462585034,
+    5302.27664399093,
+    5332.276825396825,
+    5362.277006802721,
+    5392.277188208617,
+    5422.277369614512,
+    5452.509750566894,
+    5484.204988662132,
+    5514.228390022676,
+    5544.263401360544,
+    5574.97179138322,
+    5612.0772789115645,
+    5642.286439909297,
+    5672.6697505668935,
+    5702.820861678005,
+    5733.1809523809525,
+    5763.401723356009,
+    5793.63410430839,
+    5823.820045351474,
+    5853.947936507937,
+    5884.157097505669,
+    5914.354648526077,
+    5944.517369614512,
+    5974.622040816326,
+    6004.715102040816,
+    6034.831383219955,
+    6064.959274376417,
+    6094.994285714286,
+    6125.01768707483,
+    6155.075918367347,
+    6185.2386394557825,
+    6215.447800453515,
+    6246.121360544218,
+    6276.458231292517
+  ],
+  "segments": [
+    {
+      "index": 1,
+      "start_s": 0,
+      "end_s": 10.077460317460318,
+      "duration_s": 10.077460317460318,
+      "track_name": "Track 1 (no AI model - transition detected at 10.1s)",
+      "notes": null
+    },
+    {
+      "index": 2,
+      "start_s": 10.077460317460318,
+      "end_s": 40.08925170068027,
+      "duration_s": 30.011791383219954,
+      "track_name": "Track 2 (no AI model - transition detected at 40.1s)",
+      "notes": null
+    },
+    {
+      "index": 3,
+      "start_s": 40.08925170068027,
+      "end_s": 70.08943310657597,
+      "duration_s": 30.000181405895695,
+      "track_name": "Track 3 (no AI model - transition detected at 70.1s)",
+      "notes": null
+    },
+    {
+      "index": 4,
+      "start_s": 70.08943310657597,
+      "end_s": 100.22893424036282,
+      "duration_s": 30.13950113378685,
+      "track_name": "Track 4 (no AI model - transition detected at 100.2s)",
+      "notes": null
+    },
+    {
+      "index": 5,
+      "start_s": 100.22893424036282,
+      "end_s": 131.45977324263038,
+      "duration_s": 31.230839002267558,
+      "track_name": "Track 5 (no AI model - transition detected at 131.5s)",
+      "notes": null
+    },
+    {
+      "index": 6,
+      "start_s": 131.45977324263038,
+      "end_s": 161.58766439909297,
+      "duration_s": 30.127891156462596,
+      "track_name": "Track 6 (no AI model - transition detected at 161.6s)",
+      "notes": null
+    },
+    {
+      "index": 7,
+      "start_s": 161.58766439909297,
+      "end_s": 191.84326530612245,
+      "duration_s": 30.255600907029475,
+      "track_name": "Track 7 (no AI model - transition detected at 191.8s)",
+      "notes": null
+    },
+    {
+      "index": 8,
+      "start_s": 191.84326530612245,
+      "end_s": 222.3310657596372,
+      "duration_s": 30.48780045351475,
+      "track_name": "Track 8 (no AI model - transition detected at 222.3s)",
+      "notes": null
+    },
+    {
+      "index": 9,
+      "start_s": 222.3310657596372,
+      "end_s": 252.3312471655329,
+      "duration_s": 30.000181405895688,
+      "track_name": "Track 9 (no AI model - transition detected at 252.3s)",
+      "notes": null
+    },
+    {
+      "index": 10,
+      "start_s": 252.3312471655329,
+      "end_s": 282.45913832199545,
+      "duration_s": 30.127891156462567,
+      "track_name": "Track 10 (no AI model - transition detected at 282.5s)",
+      "notes": null
+    },
+    {
+      "index": 11,
+      "start_s": 282.45913832199545,
+      "end_s": 312.6334693877551,
+      "duration_s": 30.174331065759645,
+      "track_name": "Track 11 (no AI model - transition detected at 312.6s)",
+      "notes": null
+    },
+    {
+      "index": 12,
+      "start_s": 312.6334693877551,
+      "end_s": 342.6452607709751,
+      "duration_s": 30.011791383219986,
+      "track_name": "Track 12 (no AI model - transition detected at 342.6s)",
+      "notes": null
+    },
+    {
+      "index": 13,
+      "start_s": 342.6452607709751,
+      "end_s": 372.64544217687074,
+      "duration_s": 30.00018140589566,
+      "track_name": "Track 13 (no AI model - transition detected at 372.6s)",
+      "notes": null
+    },
+    {
+      "index": 14,
+      "start_s": 372.64544217687074,
+      "end_s": 403.1216326530612,
+      "duration_s": 30.47619047619048,
+      "track_name": "Track 14 (no AI model - transition detected at 403.1s)",
+      "notes": null
+    },
+    {
+      "index": 15,
+      "start_s": 403.1216326530612,
+      "end_s": 433.35401360544216,
+      "duration_s": 30.232380952380936,
+      "track_name": "Track 15 (no AI model - transition detected at 433.4s)",
+      "notes": null
+    },
+    {
+      "index": 16,
+      "start_s": 433.35401360544216,
+      "end_s": 463.4006349206349,
+      "duration_s": 30.046621315192738,
+      "track_name": "Track 16 (no AI model - transition detected at 463.4s)",
+      "notes": null
+    },
+    {
+      "index": 17,
+      "start_s": 463.4006349206349,
+      "end_s": 493.5981859410431,
+      "duration_s": 30.197551020408184,
+      "track_name": "Track 17 (no AI model - transition detected at 493.6s)",
+      "notes": null
+    },
+    {
+      "index": 18,
+      "start_s": 493.5981859410431,
+      "end_s": 523.830566893424,
+      "duration_s": 30.232380952380936,
+      "track_name": "Track 18 (no AI model - transition detected at 523.8s)",
+      "notes": null
+    },
+    {
+      "index": 19,
+      "start_s": 523.830566893424,
+      "end_s": 554.5273469387755,
+      "duration_s": 30.69678004535149,
+      "track_name": "Track 19 (no AI model - transition detected at 554.5s)",
+      "notes": null
+    },
+    {
+      "index": 20,
+      "start_s": 554.5273469387755,
+      "end_s": 584.5391383219954,
+      "duration_s": 30.01179138321993,
+      "track_name": "Track 20 (no AI model - transition detected at 584.5s)",
+      "notes": null
+    },
+    {
+      "index": 21,
+      "start_s": 584.5391383219954,
+      "end_s": 614.5393197278912,
+      "duration_s": 30.000181405895773,
+      "track_name": "Track 21 (no AI model - transition detected at 614.5s)",
+      "notes": null
+    },
+    {
+      "index": 22,
+      "start_s": 614.5393197278912,
+      "end_s": 644.5395011337869,
+      "duration_s": 30.00018140589566,
+      "track_name": "Track 22 (no AI model - transition detected at 644.5s)",
+      "notes": null
+    },
+    {
+      "index": 23,
+      "start_s": 644.5395011337869,
+      "end_s": 674.5396825396825,
+      "duration_s": 30.00018140589566,
+      "track_name": "Track 23 (no AI model - transition detected at 674.5s)",
+      "notes": null
+    },
+    {
+      "index": 24,
+      "start_s": 674.5396825396825,
+      "end_s": 704.5398639455782,
+      "duration_s": 30.00018140589566,
+      "track_name": "Track 24 (no AI model - transition detected at 704.5s)",
+      "notes": null
+    },
+    {
+      "index": 25,
+      "start_s": 704.5398639455782,
+      "end_s": 734.5516553287982,
+      "duration_s": 30.011791383220043,
+      "track_name": "Track 25 (no AI model - transition detected at 734.6s)",
+      "notes": null
+    },
+    {
+      "index": 26,
+      "start_s": 734.5516553287982,
+      "end_s": 765.0394557823129,
+      "duration_s": 30.487800453514637,
+      "track_name": "Track 26 (no AI model - transition detected at 765.0s)",
+      "notes": null
+    },
+    {
+      "index": 27,
+      "start_s": 765.0394557823129,
+      "end_s": 795.2718367346939,
+      "duration_s": 30.23238095238105,
+      "track_name": "Track 27 (no AI model - transition detected at 795.3s)",
+      "notes": null
+    },
+    {
+      "index": 28,
+      "start_s": 795.2718367346939,
+      "end_s": 825.5042176870749,
+      "duration_s": 30.232380952380936,
+      "track_name": "Track 28 (no AI model - transition detected at 825.5s)",
+      "notes": null
+    },
+    {
+      "index": 29,
+      "start_s": 825.5042176870749,
+      "end_s": 855.701768707483,
+      "duration_s": 30.197551020408127,
+      "track_name": "Track 29 (no AI model - transition detected at 855.7s)",
+      "notes": null
+    },
+    {
+      "index": 30,
+      "start_s": 855.701768707483,
+      "end_s": 885.8180498866213,
+      "duration_s": 30.116281179138355,
+      "track_name": "Track 30 (no AI model - transition detected at 885.8s)",
+      "notes": null
+    },
+    {
+      "index": 31,
+      "start_s": 885.8180498866213,
+      "end_s": 916.038820861678,
+      "duration_s": 30.220770975056666,
+      "track_name": "Track 31 (no AI model - transition detected at 916.0s)",
+      "notes": null
+    },
+    {
+      "index": 32,
+      "start_s": 916.038820861678,
+      "end_s": 946.0622222222222,
+      "duration_s": 30.0234013605442,
+      "track_name": "Track 32 (no AI model - transition detected at 946.1s)",
+      "notes": null
+    },
+    {
+      "index": 33,
+      "start_s": 946.0622222222222,
+      "end_s": 976.2946031746031,
+      "duration_s": 30.232380952380936,
+      "track_name": "Track 33 (no AI model - transition detected at 976.3s)",
+      "notes": null
+    },
+    {
+      "index": 34,
+      "start_s": 976.2946031746031,
+      "end_s": 1006.2947845804989,
+      "duration_s": 30.000181405895773,
+      "track_name": "Track 34 (no AI model - transition detected at 1006.3s)",
+      "notes": null
+    },
+    {
+      "index": 35,
+      "start_s": 1006.2947845804989,
+      "end_s": 1039.1974603174604,
+      "duration_s": 32.90267573696144,
+      "track_name": "Track 35 (no AI model - transition detected at 1039.2s)",
+      "notes": null
+    },
+    {
+      "index": 36,
+      "start_s": 1039.1974603174604,
+      "end_s": 1069.3834013605442,
+      "duration_s": 30.185941043083858,
+      "track_name": "Track 36 (no AI model - transition detected at 1069.4s)",
+      "notes": null
+    },
+    {
+      "index": 37,
+      "start_s": 1069.3834013605442,
+      "end_s": 1099.38358276644,
+      "duration_s": 30.000181405895773,
+      "track_name": "Track 37 (no AI model - transition detected at 1099.4s)",
+      "notes": null
+    },
+    {
+      "index": 38,
+      "start_s": 1099.38358276644,
+      "end_s": 1130.5679818594103,
+      "duration_s": 31.184399092970352,
+      "track_name": "Track 38 (no AI model - transition detected at 1130.6s)",
+      "notes": null
+    },
+    {
+      "index": 39,
+      "start_s": 1130.5679818594103,
+      "end_s": 1160.7539229024944,
+      "duration_s": 30.185941043084085,
+      "track_name": "Track 39 (no AI model - transition detected at 1160.8s)",
+      "notes": null
+    },
+    {
+      "index": 40,
+      "start_s": 1160.7539229024944,
+      "end_s": 1190.8121541950113,
+      "duration_s": 30.058231292516894,
+      "track_name": "Track 40 (no AI model - transition detected at 1190.8s)",
+      "notes": null
+    },
+    {
+      "index": 41,
+      "start_s": 1190.8121541950113,
+      "end_s": 1221.0561451247165,
+      "duration_s": 30.243990929705205,
+      "track_name": "Track 41 (no AI model - transition detected at 1221.1s)",
+      "notes": null
+    },
+    {
+      "index": 42,
+      "start_s": 1221.0561451247165,
+      "end_s": 1252.6817233560091,
+      "duration_s": 31.625578231292593,
+      "track_name": "Track 42 (no AI model - transition detected at 1252.7s)",
+      "notes": null
+    },
+    {
+      "index": 43,
+      "start_s": 1252.6817233560091,
+      "end_s": 1288.4172335600906,
+      "duration_s": 35.73551020408149,
+      "track_name": "Track 43 (no AI model - transition detected at 1288.4s)",
+      "notes": null
+    },
+    {
+      "index": 44,
+      "start_s": 1288.4172335600906,
+      "end_s": 1318.440634920635,
+      "duration_s": 30.023401360544312,
+      "track_name": "Track 44 (no AI model - transition detected at 1318.4s)",
+      "notes": null
+    },
+    {
+      "index": 45,
+      "start_s": 1318.440634920635,
+      "end_s": 1348.6730158730159,
+      "duration_s": 30.232380952380936,
+      "track_name": "Track 45 (no AI model - transition detected at 1348.7s)",
+      "notes": null
+    },
+    {
+      "index": 46,
+      "start_s": 1348.6730158730159,
+      "end_s": 1378.8473469387754,
+      "duration_s": 30.17433106575959,
+      "track_name": "Track 46 (no AI model - transition detected at 1378.8s)",
+      "notes": null
+    },
+    {
+      "index": 47,
+      "start_s": 1378.8473469387754,
+      "end_s": 1408.8475283446712,
+      "duration_s": 30.000181405895773,
+      "track_name": "Track 47 (no AI model - transition detected at 1408.8s)",
+      "notes": null
+    },
+    {
+      "index": 48,
+      "start_s": 1408.8475283446712,
+      "end_s": 1439.0102494331065,
+      "duration_s": 30.16272108843532,
+      "track_name": "Track 48 (no AI model - transition detected at 1439.0s)",
+      "notes": null
+    },
+    {
+      "index": 49,
+      "start_s": 1439.0102494331065,
+      "end_s": 1469.1613605442176,
+      "duration_s": 30.15111111111105,
+      "track_name": "Track 49 (no AI model - transition detected at 1469.2s)",
+      "notes": null
+    },
+    {
+      "index": 50,
+      "start_s": 1469.1613605442176,
+      "end_s": 1499.3356916099774,
+      "duration_s": 30.174331065759816,
+      "track_name": "Track 50 (no AI model - transition detected at 1499.3s)",
+      "notes": null
+    },
+    {
+      "index": 51,
+      "start_s": 1499.3356916099774,
+      "end_s": 1529.510022675737,
+      "duration_s": 30.17433106575959,
+      "track_name": "Track 51 (no AI model - transition detected at 1529.5s)",
+      "notes": null
+    },
+    {
+      "index": 52,
+      "start_s": 1529.510022675737,
+      "end_s": 1559.6843537414966,
+      "duration_s": 30.17433106575959,
+      "track_name": "Track 52 (no AI model - transition detected at 1559.7s)",
+      "notes": null
+    },
+    {
+      "index": 53,
+      "start_s": 1559.6843537414966,
+      "end_s": 1589.847074829932,
+      "duration_s": 30.16272108843532,
+      "track_name": "Track 53 (no AI model - transition detected at 1589.8s)",
+      "notes": null
+    },
+    {
+      "index": 54,
+      "start_s": 1589.847074829932,
+      "end_s": 1619.858866213152,
+      "duration_s": 30.011791383220043,
+      "track_name": "Track 54 (no AI model - transition detected at 1619.9s)",
+      "notes": null
+    },
+    {
+      "index": 55,
+      "start_s": 1619.858866213152,
+      "end_s": 1649.8590476190477,
+      "duration_s": 30.000181405895773,
+      "track_name": "Track 55 (no AI model - transition detected at 1649.9s)",
+      "notes": null
+    },
+    {
+      "index": 56,
+      "start_s": 1649.8590476190477,
+      "end_s": 1680.14947845805,
+      "duration_s": 30.290430839002283,
+      "track_name": "Track 56 (no AI model - transition detected at 1680.1s)",
+      "notes": null
+    },
+    {
+      "index": 57,
+      "start_s": 1680.14947845805,
+      "end_s": 1710.3586394557824,
+      "duration_s": 30.209160997732397,
+      "track_name": "Track 57 (no AI model - transition detected at 1710.4s)",
+      "notes": null
+    },
+    {
+      "index": 58,
+      "start_s": 1710.3586394557824,
+      "end_s": 1741.682358276644,
+      "duration_s": 31.323718820861586,
+      "track_name": "Track 58 (no AI model - transition detected at 1741.7s)",
+      "notes": null
+    },
+    {
+      "index": 59,
+      "start_s": 1741.682358276644,
+      "end_s": 1771.8102494331065,
+      "duration_s": 30.12789115646251,
+      "track_name": "Track 59 (no AI model - transition detected at 1771.8s)",
+      "notes": null
+    },
+    {
+      "index": 60,
+      "start_s": 1771.8102494331065,
+      "end_s": 1801.8104308390023,
+      "duration_s": 30.000181405895773,
+      "track_name": "Track 60 (no AI model - transition detected at 1801.8s)",
+      "notes": null
+    },
+    {
+      "index": 61,
+      "start_s": 1801.8104308390023,
+      "end_s": 1832.031201814059,
+      "duration_s": 30.220770975056666,
+      "track_name": "Track 61 (no AI model - transition detected at 1832.0s)",
+      "notes": null
+    },
+    {
+      "index": 62,
+      "start_s": 1832.031201814059,
+      "end_s": 1862.2519727891156,
+      "duration_s": 30.220770975056666,
+      "track_name": "Track 62 (no AI model - transition detected at 1862.3s)",
+      "notes": null
+    },
+    {
+      "index": 63,
+      "start_s": 1862.2519727891156,
+      "end_s": 1892.2637641723356,
+      "duration_s": 30.011791383220043,
+      "track_name": "Track 63 (no AI model - transition detected at 1892.3s)",
+      "notes": null
+    },
+    {
+      "index": 64,
+      "start_s": 1892.2637641723356,
+      "end_s": 1922.2755555555555,
+      "duration_s": 30.011791383219816,
+      "track_name": "Track 64 (no AI model - transition detected at 1922.3s)",
+      "notes": null
+    },
+    {
+      "index": 65,
+      "start_s": 1922.2755555555555,
+      "end_s": 1952.3221768707483,
+      "duration_s": 30.04662131519285,
+      "track_name": "Track 65 (no AI model - transition detected at 1952.3s)",
+      "notes": null
+    },
+    {
+      "index": 66,
+      "start_s": 1952.3221768707483,
+      "end_s": 1982.5081179138322,
+      "duration_s": 30.185941043083858,
+      "track_name": "Track 66 (no AI model - transition detected at 1982.5s)",
+      "notes": null
+    },
+    {
+      "index": 67,
+      "start_s": 1982.5081179138322,
+      "end_s": 2012.508299319728,
+      "duration_s": 30.000181405895773,
+      "track_name": "Track 67 (no AI model - transition detected at 2012.5s)",
+      "notes": null
+    },
+    {
+      "index": 68,
+      "start_s": 2012.508299319728,
+      "end_s": 2042.5084807256235,
+      "duration_s": 30.000181405895546,
+      "track_name": "Track 68 (no AI model - transition detected at 2042.5s)",
+      "notes": null
+    },
+    {
+      "index": 69,
+      "start_s": 2042.5084807256235,
+      "end_s": 2072.5086621315195,
+      "duration_s": 30.000181405896,
+      "track_name": "Track 69 (no AI model - transition detected at 2072.5s)",
+      "notes": null
+    },
+    {
+      "index": 70,
+      "start_s": 2072.5086621315195,
+      "end_s": 2102.508843537415,
+      "duration_s": 30.000181405895546,
+      "track_name": "Track 70 (no AI model - transition detected at 2102.5s)",
+      "notes": null
+    },
+    {
+      "index": 71,
+      "start_s": 2102.508843537415,
+      "end_s": 2132.520634920635,
+      "duration_s": 30.011791383220043,
+      "track_name": "Track 71 (no AI model - transition detected at 2132.5s)",
+      "notes": null
+    },
+    {
+      "index": 72,
+      "start_s": 2132.520634920635,
+      "end_s": 2162.5208163265306,
+      "duration_s": 30.000181405895546,
+      "track_name": "Track 72 (no AI model - transition detected at 2162.5s)",
+      "notes": null
+    },
+    {
+      "index": 73,
+      "start_s": 2162.5208163265306,
+      "end_s": 2192.764807256236,
+      "duration_s": 30.243990929705433,
+      "track_name": "Track 73 (no AI model - transition detected at 2192.8s)",
+      "notes": null
+    },
+    {
+      "index": 74,
+      "start_s": 2192.764807256236,
+      "end_s": 2222.9855782312925,
+      "duration_s": 30.22077097505644,
+      "track_name": "Track 74 (no AI model - transition detected at 2223.0s)",
+      "notes": null
+    },
+    {
+      "index": 75,
+      "start_s": 2222.9855782312925,
+      "end_s": 2252.985759637188,
+      "duration_s": 30.000181405895546,
+      "track_name": "Track 75 (no AI model - transition detected at 2253.0s)",
+      "notes": null
+    },
+    {
+      "index": 76,
+      "start_s": 2252.985759637188,
+      "end_s": 2282.985941043084,
+      "duration_s": 30.000181405896,
+      "track_name": "Track 76 (no AI model - transition detected at 2283.0s)",
+      "notes": null
+    },
+    {
+      "index": 77,
+      "start_s": 2282.985941043084,
+      "end_s": 2312.9861224489796,
+      "duration_s": 30.000181405895546,
+      "track_name": "Track 77 (no AI model - transition detected at 2313.0s)",
+      "notes": null
+    },
+    {
+      "index": 78,
+      "start_s": 2312.9861224489796,
+      "end_s": 2343.230113378685,
+      "duration_s": 30.243990929705433,
+      "track_name": "Track 78 (no AI model - transition detected at 2343.2s)",
+      "notes": null
+    },
+    {
+      "index": 79,
+      "start_s": 2343.230113378685,
+      "end_s": 2373.462494331066,
+      "duration_s": 30.232380952380936,
+      "track_name": "Track 79 (no AI model - transition detected at 2373.5s)",
+      "notes": null
+    },
+    {
+      "index": 80,
+      "start_s": 2373.462494331066,
+      "end_s": 2403.4626757369615,
+      "duration_s": 30.000181405895546,
+      "track_name": "Track 80 (no AI model - transition detected at 2403.5s)",
+      "notes": null
+    },
+    {
+      "index": 81,
+      "start_s": 2403.4626757369615,
+      "end_s": 2433.5673469387757,
+      "duration_s": 30.1046712018142,
+      "track_name": "Track 81 (no AI model - transition detected at 2433.6s)",
+      "notes": null
+    },
+    {
+      "index": 82,
+      "start_s": 2433.5673469387757,
+      "end_s": 2465.367074829932,
+      "duration_s": 31.79972789115618,
+      "track_name": "Track 82 (no AI model - transition detected at 2465.4s)",
+      "notes": null
+    },
+    {
+      "index": 83,
+      "start_s": 2465.367074829932,
+      "end_s": 2496.876553287982,
+      "duration_s": 31.509478458050125,
+      "track_name": "Track 83 (no AI model - transition detected at 2496.9s)",
+      "notes": null
+    },
+    {
+      "index": 84,
+      "start_s": 2496.876553287982,
+      "end_s": 2529.140680272109,
+      "duration_s": 32.26412698412696,
+      "track_name": "Track 84 (no AI model - transition detected at 2529.1s)",
+      "notes": null
+    },
+    {
+      "index": 85,
+      "start_s": 2529.140680272109,
+      "end_s": 2559.419501133787,
+      "duration_s": 30.278820861678014,
+      "track_name": "Track 85 (no AI model - transition detected at 2559.4s)",
+      "notes": null
+    },
+    {
+      "index": 86,
+      "start_s": 2559.419501133787,
+      "end_s": 2589.6402721088434,
+      "duration_s": 30.22077097505644,
+      "track_name": "Track 86 (no AI model - transition detected at 2589.6s)",
+      "notes": null
+    },
+    {
+      "index": 87,
+      "start_s": 2589.6402721088434,
+      "end_s": 2619.6404535147394,
+      "duration_s": 30.000181405896,
+      "track_name": "Track 87 (no AI model - transition detected at 2619.6s)",
+      "notes": null
+    },
+    {
+      "index": 88,
+      "start_s": 2619.6404535147394,
+      "end_s": 2649.640634920635,
+      "duration_s": 30.000181405895546,
+      "track_name": "Track 88 (no AI model - transition detected at 2649.6s)",
+      "notes": null
+    },
+    {
+      "index": 89,
+      "start_s": 2649.640634920635,
+      "end_s": 2680.59283446712,
+      "duration_s": 30.95219954648519,
+      "track_name": "Track 89 (no AI model - transition detected at 2680.6s)",
+      "notes": null
+    },
+    {
+      "index": 90,
+      "start_s": 2680.59283446712,
+      "end_s": 2711.0690249433105,
+      "duration_s": 30.476190476190368,
+      "track_name": "Track 90 (no AI model - transition detected at 2711.1s)",
+      "notes": null
+    },
+    {
+      "index": 91,
+      "start_s": 2711.0690249433105,
+      "end_s": 2741.0808163265306,
+      "duration_s": 30.011791383220043,
+      "track_name": "Track 91 (no AI model - transition detected at 2741.1s)",
+      "notes": null
+    },
+    {
+      "index": 92,
+      "start_s": 2741.0808163265306,
+      "end_s": 2771.278367346939,
+      "duration_s": 30.197551020408355,
+      "track_name": "Track 92 (no AI model - transition detected at 2771.3s)",
+      "notes": null
+    },
+    {
+      "index": 93,
+      "start_s": 2771.278367346939,
+      "end_s": 2801.5339682539684,
+      "duration_s": 30.255600907029475,
+      "track_name": "Track 93 (no AI model - transition detected at 2801.5s)",
+      "notes": null
+    },
+    {
+      "index": 94,
+      "start_s": 2801.5339682539684,
+      "end_s": 2831.743129251701,
+      "duration_s": 30.209160997732397,
+      "track_name": "Track 94 (no AI model - transition detected at 2831.7s)",
+      "notes": null
+    },
+    {
+      "index": 95,
+      "start_s": 2831.743129251701,
+      "end_s": 2868.9879365079364,
+      "duration_s": 37.24480725623562,
+      "track_name": "Track 95 (no AI model - transition detected at 2869.0s)",
+      "notes": null
+    },
+    {
+      "index": 96,
+      "start_s": 2868.9879365079364,
+      "end_s": 2899.1042176870747,
+      "duration_s": 30.11628117913824,
+      "track_name": "Track 96 (no AI model - transition detected at 2899.1s)",
+      "notes": null
+    },
+    {
+      "index": 97,
+      "start_s": 2899.1042176870747,
+      "end_s": 2935.5014965986393,
+      "duration_s": 36.39727891156463,
+      "track_name": "Track 97 (no AI model - transition detected at 2935.5s)",
+      "notes": null
+    },
+    {
+      "index": 98,
+      "start_s": 2935.5014965986393,
+      "end_s": 2965.8267573696144,
+      "duration_s": 30.325260770975092,
+      "track_name": "Track 98 (no AI model - transition detected at 2965.8s)",
+      "notes": null
+    },
+    {
+      "index": 99,
+      "start_s": 2965.8267573696144,
+      "end_s": 2995.8269387755104,
+      "duration_s": 30.000181405896,
+      "track_name": "Track 99 (no AI model - transition detected at 2995.8s)",
+      "notes": null
+    },
+    {
+      "index": 100,
+      "start_s": 2995.8269387755104,
+      "end_s": 3025.827120181406,
+      "duration_s": 30.000181405895546,
+      "track_name": "Track 100 (no AI model - transition detected at 3025.8s)",
+      "notes": null
+    },
+    {
+      "index": 101,
+      "start_s": 3025.827120181406,
+      "end_s": 3055.8273015873015,
+      "duration_s": 30.000181405895546,
+      "track_name": "Track 101 (no AI model - transition detected at 3055.8s)",
+      "notes": null
+    },
+    {
+      "index": 102,
+      "start_s": 3055.8273015873015,
+      "end_s": 3087.9753287981857,
+      "duration_s": 32.148027210884266,
+      "track_name": "Track 102 (no AI model - transition detected at 3088.0s)",
+      "notes": null
+    },
+    {
+      "index": 103,
+      "start_s": 3087.9753287981857,
+      "end_s": 3118.207709750567,
+      "duration_s": 30.23238095238139,
+      "track_name": "Track 103 (no AI model - transition detected at 3118.2s)",
+      "notes": null
+    },
+    {
+      "index": 104,
+      "start_s": 3118.207709750567,
+      "end_s": 3148.2078911564627,
+      "duration_s": 30.000181405895546,
+      "track_name": "Track 104 (no AI model - transition detected at 3148.2s)",
+      "notes": null
+    },
+    {
+      "index": 105,
+      "start_s": 3148.2078911564627,
+      "end_s": 3178.417052154195,
+      "duration_s": 30.209160997732397,
+      "track_name": "Track 105 (no AI model - transition detected at 3178.4s)",
+      "notes": null
+    },
+    {
+      "index": 106,
+      "start_s": 3178.417052154195,
+      "end_s": 3209.438911564626,
+      "duration_s": 31.021859410430807,
+      "track_name": "Track 106 (no AI model - transition detected at 3209.4s)",
+      "notes": null
+    },
+    {
+      "index": 107,
+      "start_s": 3209.438911564626,
+      "end_s": 3239.636462585034,
+      "duration_s": 30.197551020408355,
+      "track_name": "Track 107 (no AI model - transition detected at 3239.6s)",
+      "notes": null
+    },
+    {
+      "index": 108,
+      "start_s": 3239.636462585034,
+      "end_s": 3269.868843537415,
+      "duration_s": 30.232380952380936,
+      "track_name": "Track 108 (no AI model - transition detected at 3269.9s)",
+      "notes": null
+    },
+    {
+      "index": 109,
+      "start_s": 3269.868843537415,
+      "end_s": 3299.8690249433107,
+      "duration_s": 30.000181405895546,
+      "track_name": "Track 109 (no AI model - transition detected at 3299.9s)",
+      "notes": null
+    },
+    {
+      "index": 110,
+      "start_s": 3299.8690249433107,
+      "end_s": 3330.1478458049887,
+      "duration_s": 30.278820861678014,
+      "track_name": "Track 110 (no AI model - transition detected at 3330.1s)",
+      "notes": null
+    },
+    {
+      "index": 111,
+      "start_s": 3330.1478458049887,
+      "end_s": 3360.2409070294784,
+      "duration_s": 30.093061224489702,
+      "track_name": "Track 111 (no AI model - transition detected at 3360.2s)",
+      "notes": null
+    },
+    {
+      "index": 112,
+      "start_s": 3360.2409070294784,
+      "end_s": 3390.2643083900225,
+      "duration_s": 30.023401360544085,
+      "track_name": "Track 112 (no AI model - transition detected at 3390.3s)",
+      "notes": null
+    },
+    {
+      "index": 113,
+      "start_s": 3390.2643083900225,
+      "end_s": 3420.2644897959185,
+      "duration_s": 30.000181405896,
+      "track_name": "Track 113 (no AI model - transition detected at 3420.3s)",
+      "notes": null
+    },
+    {
+      "index": 114,
+      "start_s": 3420.2644897959185,
+      "end_s": 3450.427210884354,
+      "duration_s": 30.16272108843532,
+      "track_name": "Track 114 (no AI model - transition detected at 3450.4s)",
+      "notes": null
+    },
+    {
+      "index": 115,
+      "start_s": 3450.427210884354,
+      "end_s": 3480.589931972789,
+      "duration_s": 30.16272108843532,
+      "track_name": "Track 115 (no AI model - transition detected at 3480.6s)",
+      "notes": null
+    },
+    {
+      "index": 116,
+      "start_s": 3480.589931972789,
+      "end_s": 3510.729433106576,
+      "duration_s": 30.13950113378678,
+      "track_name": "Track 116 (no AI model - transition detected at 3510.7s)",
+      "notes": null
+    },
+    {
+      "index": 117,
+      "start_s": 3510.729433106576,
+      "end_s": 3540.8921541950112,
+      "duration_s": 30.16272108843532,
+      "track_name": "Track 117 (no AI model - transition detected at 3540.9s)",
+      "notes": null
+    },
+    {
+      "index": 118,
+      "start_s": 3540.8921541950112,
+      "end_s": 3570.8923356009072,
+      "duration_s": 30.000181405896,
+      "track_name": "Track 118 (no AI model - transition detected at 3570.9s)",
+      "notes": null
+    },
+    {
+      "index": 119,
+      "start_s": 3570.8923356009072,
+      "end_s": 3601.0550566893426,
+      "duration_s": 30.16272108843532,
+      "track_name": "Track 119 (no AI model - transition detected at 3601.1s)",
+      "notes": null
+    },
+    {
+      "index": 120,
+      "start_s": 3601.0550566893426,
+      "end_s": 3631.055238095238,
+      "duration_s": 30.000181405895546,
+      "track_name": "Track 120 (no AI model - transition detected at 3631.1s)",
+      "notes": null
+    },
+    {
+      "index": 121,
+      "start_s": 3631.055238095238,
+      "end_s": 3661.2063492063494,
+      "duration_s": 30.151111111111277,
+      "track_name": "Track 121 (no AI model - transition detected at 3661.2s)",
+      "notes": null
+    },
+    {
+      "index": 122,
+      "start_s": 3661.2063492063494,
+      "end_s": 3691.3690702947847,
+      "duration_s": 30.16272108843532,
+      "track_name": "Track 122 (no AI model - transition detected at 3691.4s)",
+      "notes": null
+    },
+    {
+      "index": 123,
+      "start_s": 3691.3690702947847,
+      "end_s": 3721.5201814058955,
+      "duration_s": 30.151111111110822,
+      "track_name": "Track 123 (no AI model - transition detected at 3721.5s)",
+      "notes": null
+    },
+    {
+      "index": 124,
+      "start_s": 3721.5201814058955,
+      "end_s": 3751.8454421768706,
+      "duration_s": 30.325260770975092,
+      "track_name": "Track 124 (no AI model - transition detected at 3751.8s)",
+      "notes": null
+    },
+    {
+      "index": 125,
+      "start_s": 3751.8454421768706,
+      "end_s": 3781.996553287982,
+      "duration_s": 30.151111111111277,
+      "track_name": "Track 125 (no AI model - transition detected at 3782.0s)",
+      "notes": null
+    },
+    {
+      "index": 126,
+      "start_s": 3781.996553287982,
+      "end_s": 3812.1708843537417,
+      "duration_s": 30.174331065759816,
+      "track_name": "Track 126 (no AI model - transition detected at 3812.2s)",
+      "notes": null
+    },
+    {
+      "index": 127,
+      "start_s": 3812.1708843537417,
+      "end_s": 3842.472925170068,
+      "duration_s": 30.302040816326098,
+      "track_name": "Track 127 (no AI model - transition detected at 3842.5s)",
+      "notes": null
+    },
+    {
+      "index": 128,
+      "start_s": 3842.472925170068,
+      "end_s": 3872.6008163265305,
+      "duration_s": 30.127891156462738,
+      "track_name": "Track 128 (no AI model - transition detected at 3872.6s)",
+      "notes": null
+    },
+    {
+      "index": 129,
+      "start_s": 3872.6008163265305,
+      "end_s": 3902.717097505669,
+      "duration_s": 30.11628117913824,
+      "track_name": "Track 129 (no AI model - transition detected at 3902.7s)",
+      "notes": null
+    },
+    {
+      "index": 130,
+      "start_s": 3902.717097505669,
+      "end_s": 3932.717278911565,
+      "duration_s": 30.000181405896,
+      "track_name": "Track 130 (no AI model - transition detected at 3932.7s)",
+      "notes": null
+    },
+    {
+      "index": 131,
+      "start_s": 3932.717278911565,
+      "end_s": 3962.7290702947844,
+      "duration_s": 30.011791383219588,
+      "track_name": "Track 131 (no AI model - transition detected at 3962.7s)",
+      "notes": null
+    },
+    {
+      "index": 132,
+      "start_s": 3962.7290702947844,
+      "end_s": 3992.9498412698413,
+      "duration_s": 30.220770975056894,
+      "track_name": "Track 132 (no AI model - transition detected at 3992.9s)",
+      "notes": null
+    },
+    {
+      "index": 133,
+      "start_s": 3992.9498412698413,
+      "end_s": 4022.9616326530613,
+      "duration_s": 30.011791383220043,
+      "track_name": "Track 133 (no AI model - transition detected at 4023.0s)",
+      "notes": null
+    },
+    {
+      "index": 134,
+      "start_s": 4022.9616326530613,
+      "end_s": 4052.961814058957,
+      "duration_s": 30.000181405895546,
+      "track_name": "Track 134 (no AI model - transition detected at 4053.0s)",
+      "notes": null
+    },
+    {
+      "index": 135,
+      "start_s": 4052.961814058957,
+      "end_s": 4084.5061224489796,
+      "duration_s": 31.544308390022707,
+      "track_name": "Track 135 (no AI model - transition detected at 4084.5s)",
+      "notes": null
+    },
+    {
+      "index": 136,
+      "start_s": 4084.5061224489796,
+      "end_s": 4114.634013605442,
+      "duration_s": 30.127891156462738,
+      "track_name": "Track 136 (no AI model - transition detected at 4114.6s)",
+      "notes": null
+    },
+    {
+      "index": 137,
+      "start_s": 4114.634013605442,
+      "end_s": 4147.234829931973,
+      "duration_s": 32.60081632653055,
+      "track_name": "Track 137 (no AI model - transition detected at 4147.2s)",
+      "notes": null
+    },
+    {
+      "index": 138,
+      "start_s": 4147.234829931973,
+      "end_s": 4177.235011337869,
+      "duration_s": 30.000181405896,
+      "track_name": "Track 138 (no AI model - transition detected at 4177.2s)",
+      "notes": null
+    },
+    {
+      "index": 139,
+      "start_s": 4177.235011337869,
+      "end_s": 4207.420952380952,
+      "duration_s": 30.185941043083403,
+      "track_name": "Track 139 (no AI model - transition detected at 4207.4s)",
+      "notes": null
+    },
+    {
+      "index": 140,
+      "start_s": 4207.420952380952,
+      "end_s": 4237.444353741496,
+      "duration_s": 30.023401360544085,
+      "track_name": "Track 140 (no AI model - transition detected at 4237.4s)",
+      "notes": null
+    },
+    {
+      "index": 141,
+      "start_s": 4237.444353741496,
+      "end_s": 4270.648888888889,
+      "duration_s": 33.20453514739256,
+      "track_name": "Track 141 (no AI model - transition detected at 4270.6s)",
+      "notes": null
+    },
+    {
+      "index": 142,
+      "start_s": 4270.648888888889,
+      "end_s": 4300.695510204082,
+      "duration_s": 30.04662131519308,
+      "track_name": "Track 142 (no AI model - transition detected at 4300.7s)",
+      "notes": null
+    },
+    {
+      "index": 143,
+      "start_s": 4300.695510204082,
+      "end_s": 4330.695691609977,
+      "duration_s": 30.00018140589509,
+      "track_name": "Track 143 (no AI model - transition detected at 4330.7s)",
+      "notes": null
+    },
+    {
+      "index": 144,
+      "start_s": 4330.695691609977,
+      "end_s": 4360.9280725623585,
+      "duration_s": 30.23238095238139,
+      "track_name": "Track 144 (no AI model - transition detected at 4360.9s)",
+      "notes": null
+    },
+    {
+      "index": 145,
+      "start_s": 4360.9280725623585,
+      "end_s": 4394.341587301587,
+      "duration_s": 33.41351473922896,
+      "track_name": "Track 145 (no AI model - transition detected at 4394.3s)",
+      "notes": null
+    },
+    {
+      "index": 146,
+      "start_s": 4394.341587301587,
+      "end_s": 4424.736507936508,
+      "duration_s": 30.39492063492071,
+      "track_name": "Track 146 (no AI model - transition detected at 4424.7s)",
+      "notes": null
+    },
+    {
+      "index": 147,
+      "start_s": 4424.736507936508,
+      "end_s": 4454.980498866214,
+      "duration_s": 30.243990929705433,
+      "track_name": "Track 147 (no AI model - transition detected at 4455.0s)",
+      "notes": null
+    },
+    {
+      "index": 148,
+      "start_s": 4454.980498866214,
+      "end_s": 4484.980680272109,
+      "duration_s": 30.00018140589509,
+      "track_name": "Track 148 (no AI model - transition detected at 4485.0s)",
+      "notes": null
+    },
+    {
+      "index": 149,
+      "start_s": 4484.980680272109,
+      "end_s": 4515.038911564626,
+      "duration_s": 30.05823129251712,
+      "track_name": "Track 149 (no AI model - transition detected at 4515.0s)",
+      "notes": null
+    },
+    {
+      "index": 150,
+      "start_s": 4515.038911564626,
+      "end_s": 4545.4454421768705,
+      "duration_s": 30.40653061224475,
+      "track_name": "Track 150 (no AI model - transition detected at 4545.4s)",
+      "notes": null
+    },
+    {
+      "index": 151,
+      "start_s": 4545.4454421768705,
+      "end_s": 4575.4456235827665,
+      "duration_s": 30.000181405896,
+      "track_name": "Track 151 (no AI model - transition detected at 4575.4s)",
+      "notes": null
+    },
+    {
+      "index": 152,
+      "start_s": 4575.4456235827665,
+      "end_s": 4605.724444444444,
+      "duration_s": 30.27882086167756,
+      "track_name": "Track 152 (no AI model - transition detected at 4605.7s)",
+      "notes": null
+    },
+    {
+      "index": 153,
+      "start_s": 4605.724444444444,
+      "end_s": 4636.374784580499,
+      "duration_s": 30.650340136055092,
+      "track_name": "Track 153 (no AI model - transition detected at 4636.4s)",
+      "notes": null
+    },
+    {
+      "index": 154,
+      "start_s": 4636.374784580499,
+      "end_s": 4666.816145124717,
+      "duration_s": 30.441360544217787,
+      "track_name": "Track 154 (no AI model - transition detected at 4666.8s)",
+      "notes": null
+    },
+    {
+      "index": 155,
+      "start_s": 4666.816145124717,
+      "end_s": 4698.302403628118,
+      "duration_s": 31.486258503400677,
+      "track_name": "Track 155 (no AI model - transition detected at 4698.3s)",
+      "notes": null
+    },
+    {
+      "index": 156,
+      "start_s": 4698.302403628118,
+      "end_s": 4729.510022675737,
+      "duration_s": 31.20761904761912,
+      "track_name": "Track 156 (no AI model - transition detected at 4729.5s)",
+      "notes": null
+    },
+    {
+      "index": 157,
+      "start_s": 4729.510022675737,
+      "end_s": 4759.684353741497,
+      "duration_s": 30.17433106576027,
+      "track_name": "Track 157 (no AI model - transition detected at 4759.7s)",
+      "notes": null
+    },
+    {
+      "index": 158,
+      "start_s": 4759.684353741497,
+      "end_s": 4789.847074829932,
+      "duration_s": 30.16272108843532,
+      "track_name": "Track 158 (no AI model - transition detected at 4789.8s)",
+      "notes": null
+    },
+    {
+      "index": 159,
+      "start_s": 4789.847074829932,
+      "end_s": 4820.04462585034,
+      "duration_s": 30.197551020407445,
+      "track_name": "Track 159 (no AI model - transition detected at 4820.0s)",
+      "notes": null
+    },
+    {
+      "index": 160,
+      "start_s": 4820.04462585034,
+      "end_s": 4850.230566893424,
+      "duration_s": 30.185941043084313,
+      "track_name": "Track 160 (no AI model - transition detected at 4850.2s)",
+      "notes": null
+    },
+    {
+      "index": 161,
+      "start_s": 4850.230566893424,
+      "end_s": 4880.242358276644,
+      "duration_s": 30.011791383220043,
+      "track_name": "Track 161 (no AI model - transition detected at 4880.2s)",
+      "notes": null
+    },
+    {
+      "index": 162,
+      "start_s": 4880.242358276644,
+      "end_s": 4910.428299319728,
+      "duration_s": 30.185941043083403,
+      "track_name": "Track 162 (no AI model - transition detected at 4910.4s)",
+      "notes": null
+    },
+    {
+      "index": 163,
+      "start_s": 4910.428299319728,
+      "end_s": 4940.428480725624,
+      "duration_s": 30.000181405896,
+      "track_name": "Track 163 (no AI model - transition detected at 4940.4s)",
+      "notes": null
+    },
+    {
+      "index": 164,
+      "start_s": 4940.428480725624,
+      "end_s": 4970.602811791383,
+      "duration_s": 30.17433106575936,
+      "track_name": "Track 164 (no AI model - transition detected at 4970.6s)",
+      "notes": null
+    },
+    {
+      "index": 165,
+      "start_s": 4970.602811791383,
+      "end_s": 5000.602993197279,
+      "duration_s": 30.000181405896,
+      "track_name": "Track 165 (no AI model - transition detected at 5000.6s)",
+      "notes": null
+    },
+    {
+      "index": 166,
+      "start_s": 5000.602993197279,
+      "end_s": 5030.788934240363,
+      "duration_s": 30.185941043084313,
+      "track_name": "Track 166 (no AI model - transition detected at 5030.8s)",
+      "notes": null
+    },
+    {
+      "index": 167,
+      "start_s": 5030.788934240363,
+      "end_s": 5060.800725623582,
+      "duration_s": 30.011791383219133,
+      "track_name": "Track 167 (no AI model - transition detected at 5060.8s)",
+      "notes": null
+    },
+    {
+      "index": 168,
+      "start_s": 5060.800725623582,
+      "end_s": 5090.986666666667,
+      "duration_s": 30.185941043084313,
+      "track_name": "Track 168 (no AI model - transition detected at 5091.0s)",
+      "notes": null
+    },
+    {
+      "index": 169,
+      "start_s": 5090.986666666667,
+      "end_s": 5121.021678004535,
+      "duration_s": 30.035011337868127,
+      "track_name": "Track 169 (no AI model - transition detected at 5121.0s)",
+      "notes": null
+    },
+    {
+      "index": 170,
+      "start_s": 5121.021678004535,
+      "end_s": 5151.137959183673,
+      "duration_s": 30.11628117913824,
+      "track_name": "Track 170 (no AI model - transition detected at 5151.1s)",
+      "notes": null
+    },
+    {
+      "index": 171,
+      "start_s": 5151.137959183673,
+      "end_s": 5181.498049886622,
+      "duration_s": 30.360090702948582,
+      "track_name": "Track 171 (no AI model - transition detected at 5181.5s)",
+      "notes": null
+    },
+    {
+      "index": 172,
+      "start_s": 5181.498049886622,
+      "end_s": 5211.858140589569,
+      "duration_s": 30.360090702947673,
+      "track_name": "Track 172 (no AI model - transition detected at 5211.9s)",
+      "notes": null
+    },
+    {
+      "index": 173,
+      "start_s": 5211.858140589569,
+      "end_s": 5242.055691609978,
+      "duration_s": 30.197551020408355,
+      "track_name": "Track 173 (no AI model - transition detected at 5242.1s)",
+      "notes": null
+    },
+    {
+      "index": 174,
+      "start_s": 5242.055691609978,
+      "end_s": 5272.276462585034,
+      "duration_s": 30.22077097505644,
+      "track_name": "Track 174 (no AI model - transition detected at 5272.3s)",
+      "notes": null
+    },
+    {
+      "index": 175,
+      "start_s": 5272.276462585034,
+      "end_s": 5302.27664399093,
+      "duration_s": 30.000181405896,
+      "track_name": "Track 175 (no AI model - transition detected at 5302.3s)",
+      "notes": null
+    },
+    {
+      "index": 176,
+      "start_s": 5302.27664399093,
+      "end_s": 5332.276825396825,
+      "duration_s": 30.00018140589509,
+      "track_name": "Track 176 (no AI model - transition detected at 5332.3s)",
+      "notes": null
+    },
+    {
+      "index": 177,
+      "start_s": 5332.276825396825,
+      "end_s": 5362.277006802721,
+      "duration_s": 30.000181405896,
+      "track_name": "Track 177 (no AI model - transition detected at 5362.3s)",
+      "notes": null
+    },
+    {
+      "index": 178,
+      "start_s": 5362.277006802721,
+      "end_s": 5392.277188208617,
+      "duration_s": 30.000181405896,
+      "track_name": "Track 178 (no AI model - transition detected at 5392.3s)",
+      "notes": null
+    },
+    {
+      "index": 179,
+      "start_s": 5392.277188208617,
+      "end_s": 5422.277369614512,
+      "duration_s": 30.00018140589509,
+      "track_name": "Track 179 (no AI model - transition detected at 5422.3s)",
+      "notes": null
+    },
+    {
+      "index": 180,
+      "start_s": 5422.277369614512,
+      "end_s": 5452.509750566894,
+      "duration_s": 30.23238095238139,
+      "track_name": "Track 180 (no AI model - transition detected at 5452.5s)",
+      "notes": null
+    },
+    {
+      "index": 181,
+      "start_s": 5452.509750566894,
+      "end_s": 5484.204988662132,
+      "duration_s": 31.695238095237983,
+      "track_name": "Track 181 (no AI model - transition detected at 5484.2s)",
+      "notes": null
+    },
+    {
+      "index": 182,
+      "start_s": 5484.204988662132,
+      "end_s": 5514.228390022676,
+      "duration_s": 30.023401360544085,
+      "track_name": "Track 182 (no AI model - transition detected at 5514.2s)",
+      "notes": null
+    },
+    {
+      "index": 183,
+      "start_s": 5514.228390022676,
+      "end_s": 5544.263401360544,
+      "duration_s": 30.035011337868127,
+      "track_name": "Track 183 (no AI model - transition detected at 5544.3s)",
+      "notes": null
+    },
+    {
+      "index": 184,
+      "start_s": 5544.263401360544,
+      "end_s": 5574.97179138322,
+      "duration_s": 30.708390022676213,
+      "track_name": "Track 184 (no AI model - transition detected at 5575.0s)",
+      "notes": null
+    },
+    {
+      "index": 185,
+      "start_s": 5574.97179138322,
+      "end_s": 5612.0772789115645,
+      "duration_s": 37.10548752834438,
+      "track_name": "Track 185 (no AI model - transition detected at 5612.1s)",
+      "notes": null
+    },
+    {
+      "index": 186,
+      "start_s": 5612.0772789115645,
+      "end_s": 5642.286439909297,
+      "duration_s": 30.209160997732397,
+      "track_name": "Track 186 (no AI model - transition detected at 5642.3s)",
+      "notes": null
+    },
+    {
+      "index": 187,
+      "start_s": 5642.286439909297,
+      "end_s": 5672.6697505668935,
+      "duration_s": 30.383310657596667,
+      "track_name": "Track 187 (no AI model - transition detected at 5672.7s)",
+      "notes": null
+    },
+    {
+      "index": 188,
+      "start_s": 5672.6697505668935,
+      "end_s": 5702.820861678005,
+      "duration_s": 30.151111111111277,
+      "track_name": "Track 188 (no AI model - transition detected at 5702.8s)",
+      "notes": null
+    },
+    {
+      "index": 189,
+      "start_s": 5702.820861678005,
+      "end_s": 5733.1809523809525,
+      "duration_s": 30.360090702947673,
+      "track_name": "Track 189 (no AI model - transition detected at 5733.2s)",
+      "notes": null
+    },
+    {
+      "index": 190,
+      "start_s": 5733.1809523809525,
+      "end_s": 5763.401723356009,
+      "duration_s": 30.22077097505644,
+      "track_name": "Track 190 (no AI model - transition detected at 5763.4s)",
+      "notes": null
+    },
+    {
+      "index": 191,
+      "start_s": 5763.401723356009,
+      "end_s": 5793.63410430839,
+      "duration_s": 30.23238095238139,
+      "track_name": "Track 191 (no AI model - transition detected at 5793.6s)",
+      "notes": null
+    },
+    {
+      "index": 192,
+      "start_s": 5793.63410430839,
+      "end_s": 5823.820045351474,
+      "duration_s": 30.185941043083403,
+      "track_name": "Track 192 (no AI model - transition detected at 5823.8s)",
+      "notes": null
+    },
+    {
+      "index": 193,
+      "start_s": 5823.820045351474,
+      "end_s": 5853.947936507937,
+      "duration_s": 30.127891156463193,
+      "track_name": "Track 193 (no AI model - transition detected at 5853.9s)",
+      "notes": null
+    },
+    {
+      "index": 194,
+      "start_s": 5853.947936507937,
+      "end_s": 5884.157097505669,
+      "duration_s": 30.209160997732397,
+      "track_name": "Track 194 (no AI model - transition detected at 5884.2s)",
+      "notes": null
+    },
+    {
+      "index": 195,
+      "start_s": 5884.157097505669,
+      "end_s": 5914.354648526077,
+      "duration_s": 30.197551020407445,
+      "track_name": "Track 195 (no AI model - transition detected at 5914.4s)",
+      "notes": null
+    },
+    {
+      "index": 196,
+      "start_s": 5914.354648526077,
+      "end_s": 5944.517369614512,
+      "duration_s": 30.16272108843532,
+      "track_name": "Track 196 (no AI model - transition detected at 5944.5s)",
+      "notes": null
+    },
+    {
+      "index": 197,
+      "start_s": 5944.517369614512,
+      "end_s": 5974.622040816326,
+      "duration_s": 30.1046712018142,
+      "track_name": "Track 197 (no AI model - transition detected at 5974.6s)",
+      "notes": null
+    },
+    {
+      "index": 198,
+      "start_s": 5974.622040816326,
+      "end_s": 6004.715102040816,
+      "duration_s": 30.093061224490157,
+      "track_name": "Track 198 (no AI model - transition detected at 6004.7s)",
+      "notes": null
+    },
+    {
+      "index": 199,
+      "start_s": 6004.715102040816,
+      "end_s": 6034.831383219955,
+      "duration_s": 30.11628117913824,
+      "track_name": "Track 199 (no AI model - transition detected at 6034.8s)",
+      "notes": null
+    },
+    {
+      "index": 200,
+      "start_s": 6034.831383219955,
+      "end_s": 6064.959274376417,
+      "duration_s": 30.127891156462283,
+      "track_name": "Track 200 (no AI model - transition detected at 6065.0s)",
+      "notes": null
+    },
+    {
+      "index": 201,
+      "start_s": 6064.959274376417,
+      "end_s": 6094.994285714286,
+      "duration_s": 30.035011337869037,
+      "track_name": "Track 201 (no AI model - transition detected at 6095.0s)",
+      "notes": null
+    },
+    {
+      "index": 202,
+      "start_s": 6094.994285714286,
+      "end_s": 6125.01768707483,
+      "duration_s": 30.023401360544085,
+      "track_name": "Track 202 (no AI model - transition detected at 6125.0s)",
+      "notes": null
+    },
+    {
+      "index": 203,
+      "start_s": 6125.01768707483,
+      "end_s": 6155.075918367347,
+      "duration_s": 30.05823129251712,
+      "track_name": "Track 203 (no AI model - transition detected at 6155.1s)",
+      "notes": null
+    },
+    {
+      "index": 204,
+      "start_s": 6155.075918367347,
+      "end_s": 6185.2386394557825,
+      "duration_s": 30.16272108843532,
+      "track_name": "Track 204 (no AI model - transition detected at 6185.2s)",
+      "notes": null
+    },
+    {
+      "index": 205,
+      "start_s": 6185.2386394557825,
+      "end_s": 6215.447800453515,
+      "duration_s": 30.209160997732397,
+      "track_name": "Track 205 (no AI model - transition detected at 6215.4s)",
+      "notes": null
+    },
+    {
+      "index": 206,
+      "start_s": 6215.447800453515,
+      "end_s": 6246.121360544218,
+      "duration_s": 30.673560090703177,
+      "track_name": "Track 206 (no AI model - transition detected at 6246.1s)",
+      "notes": null
+    },
+    {
+      "index": 207,
+      "start_s": 6246.121360544218,
+      "end_s": 6276.458231292517,
+      "duration_s": 30.33687074829868,
+      "track_name": "Track 207 (no AI model - transition detected at 6276.5s)",
+      "notes": null
+    },
+    {
+      "index": 208,
+      "start_s": 6276.458231292517,
+      "end_s": 6362.128253968254,
+      "duration_s": 85.67002267573753,
+      "track_name": "Track 208 (no AI model)",
+      "notes": null
+    }
+  ]
+}

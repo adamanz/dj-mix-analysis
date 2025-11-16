@@ -1,0 +1,13 @@
+{
+  "transitions": [],
+  "segments": [
+    {
+      "index": 1,
+      "start_s": 0,
+      "end_s": 6362.128253968254,
+      "duration_s": 6362.128253968254
+    }
+  ],
+  "audio_duration": 6362.128253968254,
+  "sample_rate": 44100
+}

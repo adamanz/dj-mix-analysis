@@ -1,0 +1,42 @@
+{
+  "audio_path": "/Users/adamanz/cercle-transition-dataset/audio/QRQwZDWz1Pw.mp3",
+  "generated_at": "2025-11-16T04:25:41.968832Z",
+  "sample_rate": 24000,
+  "duration_seconds": 6362.128,
+  "parameters": {
+    "target_sr": 24000,
+    "hop_length": 2048,
+    "peak_delta": 0.5,
+    "max_candidates": 50,
+    "min_transition_gap": 20.0,
+    "edge_margin": 30.0,
+    "min_segment_duration": 45.0,
+    "preview_duration": 20.0,
+    "preview_lead_in": 5.0
+  },
+  "transitions_seconds": [
+    32.85333333333333,
+    53.333333333333336,
+    77.312,
+    99.328,
+    121.344
+  ],
+  "segments": [
+    {
+      "index": 1,
+      "start_s": 0.0,
+      "end_s": 121.344,
+      "duration_s": 121.344,
+      "track_name": "Unknown track<|im_end|>",
+      "notes": null
+    },
+    {
+      "index": 2,
+      "start_s": 121.344,
+      "end_s": 6362.128,
+      "duration_s": 6240.784,
+      "track_name": "Unknown track<|im_end|>",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "performance": "Worakls Orchestra at Ch\u00e2teau La Coste",
+  "date": "2019-04-08",
+  "platform": "Cercle",
+  "video_id": "QRQwZDWz1Pw",
+  "duration_seconds": 6362.128253968254,
+  "official_track_count": 14,
+  "detected_transitions": 50,
+  "estimated_tracks": [
+    {
+      "index": 1,
+      "name": "Detached Motion",
+      "start_s": 70.56544217687075,
+      "end_s": 574.3107482993197,
+      "duration_s": 503.74530612244894
+    },
+    {
+      "index": 2,
+      "name": "Question R\u00e9ponse",
+      "start_s": 574.3107482993197,
+      "end_s": 1042.8546031746032,
+      "duration_s": 468.5438548752835
+    },
+    {
+      "index": 3,
+      "name": "Cloches",
+      "start_s": 1042.8546031746032,
+      "end_s": 1409.010068027211,
+      "duration_s": 366.1554648526078
+    },
+    {
+      "index": 4,
+      "name": "Salzburg",
+      "start_s": 1409.010068027211,
+      "end_s": 1885.6228571428571,
+      "duration_s": 476.61278911564614
+    },
+    {
+      "index": 5,
+      "name": "Nikki",
+      "start_s": 1885.6228571428571,
+      "end_s": 2163.1825850340138,
+      "duration_s": 277.5597278911566
+    },
+    {
+      "index": 6,
+      "name": "By The Brook",
+      "start_s": 2163.1825850340138,
+      "end_s": 2761.224126984127,
+      "duration_s": 598.0415419501132
+    },
+    {
+      "index": 7,
+      "name": "Hortari",
+      "start_s": 2761.224126984127,
+      "end_s": 3251.2232199546484,
+      "duration_s": 489.99909297052136
+    },
+    {
+      "index": 8,
+      "name": "Caprice",
+      "start_s": 3251.2232199546484,
+      "end_s": 3679.3643537414964,
+      "duration_s": 428.14113378684806
+    },
+    {
+      "index": 9,
+      "name": "Toi",
+      "start_s": 3679.3643537414964,
+      "end_s": 4067.3001360544217,
+      "duration_s": 387.9357823129253
+    },
+    {
+      "index": 10,
+      "name": "Trauma (Worakls Remix)",
+      "start_s": 4067.3001360544217,
+      "end_s": 4533.556825396826,
+      "duration_s": 466.2566893424041
+    },
+    {
+      "index": 11,
+      "name": "Nocturne",
+      "start_s": 4533.556825396826,
+      "end_s": 5435.0947845804985,
+      "duration_s": 901.5379591836727
+    },
+    {
+      "index": 12,
+      "name": "Adagio For Square",
+      "start_s": 5435.0947845804985,
+      "end_s": 5724.705668934241,
+      "duration_s": 289.6108843537422
+    },
+    {
+      "index": 13,
+      "name": "Sanctis",
+      "start_s": 5724.705668934241,
+      "end_s": 6097.258231292517,
+      "duration_s": 372.5525623582762
+    },
+    {
+      "index": 14,
+      "name": "Crow",
+      "start_s": 6097.258231292517,
+      "end_s": 6362.128253968254,
+      "duration_s": 264.87002267573735
+    }
+  ],
+  "note": "Transitions mapped to official tracklist using proportional distribution"
+}
