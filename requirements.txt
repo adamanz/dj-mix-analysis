@@ -1,0 +1,42 @@
+# Liquid.ai LEAP SDK - Python Dependencies
+# For running Liquid AI models on AMD NUC devices
+
+# Core LEAP SDK
+leap-sdk>=1.0.0
+
+# Liquid Audio Model (LFM2-Audio-1.5B)
+liquid-audio>=1.0.0
+
+# Common dependencies for AI/ML workloads
+numpy>=1.21.0
+requests>=2.28.0
+# PyTorch for model inference
+# For AMD GPU support, install with ROCm:
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/rocm6.1
+# For CPU only:
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+torch>=2.0.0
+transformers>=4.30.0  # Hugging Face transformers
+datasets>=2.14.0      # Hugging Face datasets for training data
+peft>=0.10.0          # Parameter-efficient fine-tuning (LoRA/QLoRA)
+accelerate>=0.28.0    # Accelerator utilities (multi-GPU / mixed precision)
+soundfile>=0.12.0  # Audio file I/O
+librosa>=0.10.0  # Audio analysis
+
+# Optional but recommended for various use cases
+opencv-python>=4.5.0  # For image processing tasks
+pillow>=9.0.0  # Image handling
+pydantic>=1.10.0  # Data validation
+
+# Audio processing dependencies
+pyaudio>=0.2.11  # Real-time audio I/O (may need system dependencies)
+sounddevice>=0.4.6  # Real-time audio playback
+scipy>=1.9.0  # Scientific computing for audio
+
+# Optional: Flash attention for better performance (if supported)
+# flash-attn>=2.0.0  # Install separately: pip install flash-attn --no-build-isolation
+
+# Development and testing (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
